@@ -1,0 +1,51 @@
+identity:
+  type: UserAssigned
+  userAssignedIdentities:
+    "/subscriptions/6a3bb170-5159-4bff-860b-aa74fb762697/resourceGroups/library/providers/Microsoft.ManagedIdentity/userAssignedIdentities/library_uami": {}
+
+properties:
+  environmentId: "/subscriptions/6a3bb170-5159-4bff-860b-aa74fb762697/resourceGroups/CAE-WestUS2-V2-RG/providers/Microsoft.App/managedEnvironments/CAE-WestUS2-V2"
+  workloadProfileName: consumption
+  configuration:
+    ingress:
+      external: true
+      targetPort: 8080
+      clientCertificateMode: accept
+      stickySessions:
+        affinity: sticky
+      traffic:
+        - weight: 100
+          latestRevision: true
+        # revisionName: multi-container-app
+          label: production
+    maxInactiveRevisions: 10
+
+  template:
+    containers:
+      - name: primary-container
+        image: libraryacr.azurecr.io/multicontainer:primary
+        resources:
+          cpu: 0.5
+          memory: 512Mi
+
+      - name: sidecar-container
+        image: libraryacr.azurecr.io/multicontainer:sidecar
+        resources:
+          cpu: 0.25
+          memory: 256Mi
+
+      - name: sidecar1-container
+        image: libraryacr.azurecr.io/multicontainer:sidecar1
+        resources:
+          cpu: 0.25
+          memory: 256Mi
+
+    scale:
+      minReplicas: 0
+      maxReplicas: 5
+      rules:
+        - name: httpscalingrule
+          custom:
+            type: http
+            metadata:
+              concurrentRequests: "50"

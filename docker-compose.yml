@@ -1,0 +1,24 @@
+version: '3.4'
+
+services:
+  api:
+    image: my-dotnet-api
+    build:
+      context: ./sidecar
+      dockerfile: Dockerfile
+    ports:
+      - "5000:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    depends_on:
+      - sidecar
+
+  sidecar:
+    image: my-sidecar
+    build:
+      context: ./web api with sidecar
+      dockerfile: Dockerfile
+    ports:
+      - "5001:5001"
+    environment:
+      - FLASK_ENV=development 

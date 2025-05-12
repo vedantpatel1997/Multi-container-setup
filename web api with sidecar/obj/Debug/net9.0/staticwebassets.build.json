@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/vN9tzPU60N67zTgFi2M77KeahKoGHmZRhA+qI8iFtY=",
+  "Source": "web api with sidecar",
+  "BasePath": "_content/web api with sidecar",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

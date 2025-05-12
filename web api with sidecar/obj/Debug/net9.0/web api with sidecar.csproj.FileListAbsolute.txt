@@ -1,0 +1,71 @@
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\bin\Debug\net9.0\appsettings.json
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\bin\Debug\net9.0\web api with sidecar.staticwebassets.endpoints.json
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\bin\Debug\net9.0\web api with sidecar.exe
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\bin\Debug\net9.0\web api with sidecar.deps.json
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\bin\Debug\net9.0\web api with sidecar.runtimeconfig.json
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\bin\Debug\net9.0\web api with sidecar.dll
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\bin\Debug\net9.0\web api with sidecar.pdb
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\web api with sidecar.csproj.AssemblyReference.cache
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\web api with sidecar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\web api with sidecar.AssemblyInfoInputs.cache
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\web api with sidecar.AssemblyInfo.cs
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\web api with sidecar.csproj.CoreCompileInputs.cache
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\web api with sidecar.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\web api with sidecar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\scopedcss\bundle\web api with sidecar.styles.css
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\staticwebassets\msbuild.web api with sidecar.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\staticwebassets\msbuild.web api with sidecar.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\staticwebassets\msbuild.build.web api with sidecar.props
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.web api with sidecar.props
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.web api with sidecar.props
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\web api .98F3730A.Up2Date
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\web api with sidecar.dll
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\refint\web api with sidecar.dll
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\web api with sidecar.pdb
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\web api with sidecar.genruntimeconfig.cache
+C:\Users\vedan\OneDrive\Desktop\web api with sidecar\obj\Debug\net9.0\ref\web api with sidecar.dll
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\bin\Debug\net9.0\appsettings.json
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\bin\Debug\net9.0\web api with sidecar.staticwebassets.endpoints.json
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\bin\Debug\net9.0\web api with sidecar.exe
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\bin\Debug\net9.0\web api with sidecar.deps.json
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\bin\Debug\net9.0\web api with sidecar.runtimeconfig.json
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\bin\Debug\net9.0\web api with sidecar.dll
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\bin\Debug\net9.0\web api with sidecar.pdb
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\web api with sidecar.csproj.AssemblyReference.cache
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\web api with sidecar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\web api with sidecar.AssemblyInfoInputs.cache
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\web api with sidecar.AssemblyInfo.cs
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\web api with sidecar.csproj.CoreCompileInputs.cache
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\web api with sidecar.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\web api with sidecar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\scopedcss\bundle\web api with sidecar.styles.css
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\staticwebassets\msbuild.web api with sidecar.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\staticwebassets\msbuild.web api with sidecar.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\staticwebassets\msbuild.build.web api with sidecar.props
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.web api with sidecar.props
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.web api with sidecar.props
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\web api .98F3730A.Up2Date
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\web api with sidecar.dll
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\refint\web api with sidecar.dll
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\web api with sidecar.pdb
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\web api with sidecar.genruntimeconfig.cache
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\obj\Debug\net9.0\ref\web api with sidecar.dll
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vedan\OneDrive\Desktop\Sample net9 api project with Sidecar\web api with sidecar\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
