@@ -49,3 +49,7 @@ properties:
             type: http
             metadata:
               concurrentRequests: "50"
+
+
+# Command to update the container app with ymal file
+# az containerapp update --name sample-ca-v2 --resource-group CAE-WestUS2-V2-RG --yaml containerapp.ymal
