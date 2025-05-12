@@ -26,19 +26,19 @@ properties:
         image: libraryacr.azurecr.io/multicontainer:primary
         resources:
           cpu: 0.5
-          memory: 512Mi
+          memory: 1Gi
 
       - name: sidecar-container
         image: libraryacr.azurecr.io/multicontainer:sidecar
         resources:
           cpu: 0.25
-          memory: 256Mi
+          memory: 0.5Gi
 
       - name: sidecar1-container
         image: libraryacr.azurecr.io/multicontainer:sidecar1
         resources:
           cpu: 0.25
-          memory: 256Mi
+          memory: 0.5Gi
 
     scale:
       minReplicas: 0
